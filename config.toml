@@ -22,9 +22,9 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    name = "FAQ"
-    identifier = "faq"
-    url  = "/faq/"
+    name = "Roles"
+    identifier = "role"
+    url  = "/roles/"
     weight = 3
 
 [[menu.main]]
