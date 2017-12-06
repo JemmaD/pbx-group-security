@@ -153,5 +153,5 @@ paginate = 10
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
+    title = "Our blog"
     subtitle = "Read our latest blog posts here"
