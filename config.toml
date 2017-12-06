@@ -60,9 +60,9 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devows", "hugo", "go"]
-    defaultDescription = "Site template made by devcows using hugo"
+    author = "Photobox Group Security"
+    defaultKeywords = ["photobox", "security"]
+    defaultDescription = "Welcome to the Photobox Group Security hub"
 
     # Google Maps API key (if not set will default to not passing a key.)
     googleMapsApiKey = "AIzaSyCFhtWLJcE30xOAjcbSFi-0fnoVmQZPb1Y"
@@ -100,9 +100,7 @@ paginate = 10
         <br>
         <strong>Great Britain</strong>
       </p>
-      """
-    latitude = "-12.043333"
-    longitude = "-77.028333"
+
 
 [Permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
